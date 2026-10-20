@@ -1,0 +1,2 @@
+# Optional semantic search model dependency; TF-IDF fallback works without it.
+sentence-transformers==3.0.1
