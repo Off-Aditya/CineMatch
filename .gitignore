@@ -1,9 +1,13 @@
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
 node_modules/
 **/node_modules/
 __pycache__/
 *.py[cod]
-.env
-.env.*
-!.env.example
 .venv/
 venv/
